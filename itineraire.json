@@ -1,0 +1,129 @@
+{
+  "pays": "Maroc",
+  "drapeau": "🇲🇦",
+  "symbole": "🕌",
+  "titre": "Escapade Relaxante à Fès : Cœur Historique et Bien-être",
+  "budget_total": "Environ 560 €/personne",
+  "duree": "2 jours",
+  "temps_vol": "3h depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Immersion Douce dans la Médina",
+      "legende": "Après votre vol, plongez en douceur dans l'ambiance millénaire de Fès. Laissez-vous charmer par les ruelles labyrinthiques de la médina, un véritable musée à ciel ouvert, avant de vous détendre dans un riad traditionnel.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🛬 Arrivée à Fès et transfert</strong>: Atterrissage à l'aéroport de Fès-Saïs (FEZ) et transfert vers votre hébergement au cœur de la Médina.",
+        "<strong>🛏️ Installation à l'hôtel/riad</strong>: Prenez possession de votre chambre dans un riad authentique, un havre de paix idéal pour se ressourcer.",
+        "<strong>🚶‍♀️ Balade relaxante dans la Médina (Fès el-Bali)</strong>: Flânez sans but précis dans les ruelles étroites, imprégnez-vous des sons, des odeurs et de l'atmosphère unique de la vieille ville.",
+        "<strong>🍽️ Dîner traditionnel dans la Médina</strong>: Savourez un délicieux dîner marocain dans un restaurant local, pour une première expérience culinaire mémorable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Médina de Fès, Fès",
+          "categorie": "Site historique",
+          "coords": { "lat": 34.0622, "lng": -4.9829 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La Médina de Fès est un labyrinthe sans voitures. N'hésitez pas à vous perdre ou à engager un guide local pour une première immersion sereine et enrichissante."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "💆‍♀️",
+      "titre": "Détente, Artisanat et Jardins Andalous",
+      "legende": "Cette journée est dédiée à la sérénité et à la découverte des trésors cachés de Fès. Profitez d'un moment de bien-être, explorez l'artisanat local et ressourcez-vous dans des jardins paisibles avant votre départ.",
+      "lieu": "Fès",
+      "activites": [
+        "<strong>🧖‍♀️ Hammam traditionnel et massage</strong>: Offrez-vous une expérience de purification et de relaxation profonde dans un hammam local, suivie d'un massage apaisant.",
+        "<strong>🎨 Visite d'un atelier d'artisanat</strong>: Observez le travail minutieux des artisans dans une tannerie ou un atelier de poterie, témoins d'un savoir-faire ancestral.",
+        "<strong>🌳 Promenade aux Jardins Jnan Sbil</strong>: Évadez-vous dans ce magnifique jardin public, un véritable poumon vert offrant fraîcheur et tranquillité au cœur de la ville.",
+        "<strong>☕ Thé à la menthe et détente</strong>: Terminez votre séjour par un thé à la menthe traditionnel, en profitant de l'ambiance paisible d'un café ou de votre riad avant de prendre la route de l'aéroport."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hammam Mernissi Fes, Fès",
+          "categorie": "Bien-être",
+          "coords": { "lat": 34.0625, "lng": -4.9820 }
+        },
+        {
+          "nom_recherche": "Tannerie Chouara, Fès",
+          "categorie": "Artisanat",
+          "coords": { "lat": 34.0640, "lng": -4.9840 }
+        },
+        {
+          "nom_recherche": "Jardins Jnan Sbil, Fès",
+          "categorie": "Parc",
+          "coords": { "lat": 34.0580, "lng": -4.9960 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Astuce Hammam",
+          "texte": "Pour le hammam, prévoyez des vêtements de rechange et soyez ouvert à l'expérience locale. C'est un moment de pure détente et de purification, très apprécié des habitants."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 267 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (transferts aéroport, taxis locaux)", "symbole": "🚕" },
+    { "titre": "Budget repas:", "legende": "Environ 70 €/pers (35€/jour pour 2 jours, repas mid-range)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 120 €/pers (60€/nuit pour 2 nuits en riad 3* ou équivalent)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 60 €/pers (Hammam, pourboires, petites entrées)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Mai)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est le Dirham marocain (MAD). Les cartes de crédit sont acceptées dans les grands établissements, mais prévoyez du liquide pour les petits commerces et les souks.", "symbole": "💳" },
+    { "titre": "Le français est largement parlé, surtout dans les zones touristiques, en plus de l'arabe. Quelques mots d'arabe seront toujours appréciés.", "symbole": "🗣️" },
+    { "titre": "Le climat en mai est généralement chaud et ensoleillé, avec des températures agréables. Prévoyez des vêtements légers, mais aussi une petite veste pour les soirées plus fraîches.", "symbole": "☀️" },
+    { "titre": "Respectez les coutumes locales : une tenue vestimentaire modeste est recommandée, surtout lors de la visite de lieux de culte.", "symbole": "🕌" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Fès abrite l'Université Al-Karaouine, fondée en 859, reconnue par l'UNESCO comme la plus ancienne université du monde encore en activité. C'est un véritable berceau du savoir !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "La Médina de Fès (Fès el-Bali) est la plus grande zone piétonne urbaine du monde. Vous n'y verrez aucune voiture, seulement des ânes et des mules pour le transport des marchandises, un voyage dans le temps garanti !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Tajine",
+      "description": "Un plat mijoté lentement dans un plat en terre cuite conique, souvent à base de viande (poulet, agneau, bœuf) ou de légumes, agrémenté d'épices et parfois de fruits secs."
+    },
+    {
+      "symbole": "🍚",
+      "titre": "Couscous",
+      "description": "Le plat emblématique du vendredi, composé de semoule de blé fine cuite à la vapeur, servie avec un bouillon de légumes et de la viande (poulet, agneau, bœuf)."
+    },
+    {
+      "symbole": "🥧",
+      "titre": "Pastilla",
+      "description": "Une tourte feuilletée sucrée-salée, traditionnellement à base de pigeon (ou poulet), d'amandes, d'œufs et d'épices, saupoudrée de sucre glace et de cannelle."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FEZ/2026-05-07/2026-05-09", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Morocco", "url": "https://www.visitmorocco.com/fr", "symbole": "📘" },
+    { "legende": "Météo", "titre": "Météo Maroc", "url": "https://www.meteomaroc.com/", "symbole": "🌤️" }
+  ]
+}
